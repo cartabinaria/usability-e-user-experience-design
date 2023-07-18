@@ -1,11 +1,11 @@
-# \<Insegnamento\>
+# usability e user experience design
 
-Una raccolta di risorse per l'insegnamento di \<Insegnamento\> del Corso di
+Una raccolta di risorse per l'insegnamento di usability e user experience design del Corso di
 Laurea in Informatica.
 
 ## Presentazione
 
-[Questo sito](https://csunibo.github.io/<insegnamento>) elenca staticamente
+[Questo sito](https://csunibo.github.io/usability-e-user-experience-design/) elenca staticamente
 i contenuti della raccolta. Qui, documenti e presentazioni con estensione
 `.md`, `.tex`, `.doc`, `.docx`, `.ppt` o `.pptx` sono automaticamente
 convertiti in formato PDF.
